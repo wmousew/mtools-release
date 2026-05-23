@@ -3,6 +3,7 @@
 
 > 一款面向内容创作者的轻量级桌面工具集，集录屏、GIF 制作、视频快剪、AI 字幕于一体，开箱即用，无需复杂配置。
 
+- [最新版本 v0.2](https://github.com/wmousew/mtools/releases/latest)
 ---
 
 ## 核心功能一览
@@ -96,8 +97,6 @@
 | 构建系统 | CMake + Ninja |
 
 ---
-
-- [最新版本 v0.2](https://github.com/你的用户名/mtools/releases/latest)
 
 ## 系统要求
 
