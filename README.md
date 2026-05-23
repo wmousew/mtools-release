@@ -97,6 +97,8 @@
 
 ---
 
+- [最新版本 v0.2](https://github.com/你的用户名/mtools/releases/latest)
+
 ## 系统要求
 
 - **操作系统**：Windows 10 / 11（64 位）
