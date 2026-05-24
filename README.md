@@ -3,7 +3,7 @@
 
 > 一款面向内容创作者的轻量级桌面工具集，集录屏、GIF 制作、视频快剪、AI 字幕于一体，开箱即用，无需复杂配置。
 
-- [最新版本 v0.2](https://github.com/wmousew/mtools-release/releases/latest)
+- [最新版本](https://github.com/wmousew/mtools-release/releases/latest)
 ---
 
 ## 核心功能一览
